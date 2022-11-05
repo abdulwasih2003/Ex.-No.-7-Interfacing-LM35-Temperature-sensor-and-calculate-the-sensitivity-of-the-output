@@ -1,11 +1,6 @@
 ### Ex. No.:7
-~~~
-Date: 05/11/2022
-Name: H.Syed Abdul Wasih 
-Reg. No: 212221240057
-~~~
+## Date: 05/11/2022
 ### Interfacing LM35 Temperature sensor and calculate the sensitivity of the output
-
 ## Aim: 
 To configure internal ADC for   LPC2148 ARM 7  for interfacing LM35 temperature sensor.
 ## Components required:
@@ -231,18 +226,7 @@ Calculation of sensitivity % of sensitivity is S= (T2-T1)/(A2-A1)*100
 
 ![5](https://user-images.githubusercontent.com/91781810/200113881-15bb8eb4-97af-47dd-9d36-8a93680ab602.png)
 
-
 ### Graph between temperature values and ADC output:
-
 ![4](https://user-images.githubusercontent.com/91781810/200114052-39cff7f7-b601-4e9d-af6e-c26e8fd12c6d.png)
-
 ## Result :
-Temperature sensor LM35 is interfaced to LPC2148 and its output is measured 
-
-
-
-
-
-
-
-
+Temperature sensor LM35 is interfaced to LPC2148 and its output is measured .
