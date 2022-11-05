@@ -219,12 +219,13 @@ int main()
 ### Layout Diagram:
 ![3](https://user-images.githubusercontent.com/91781810/200113873-4ec2086b-4c5d-4c53-9939-0a077c42d1f8.png)
 
-## Tabulations and graph:
+# Tabulations and graph:
 ~~~
 Calculation of sensitivity % of sensitivity is S= (T2-T1)/(A2-A1)*100
 ~~~
 
-![5](https://user-images.githubusercontent.com/91781810/200113881-15bb8eb4-97af-47dd-9d36-8a93680ab602.png)
+
+#![5](https://user-images.githubusercontent.com/91781810/200115671-b99e9934-5d1c-4c58-ab62-23803d9775f4.png)
 
 ### Graph between temperature values and ADC output:
 ![4](https://user-images.githubusercontent.com/91781810/200115102-915819fc-570e-4aed-b882-88e6131d5ec2.png)
